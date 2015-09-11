@@ -27,7 +27,7 @@ the number of updated users records per second or the number of registrations of
 
     end
 
-For every declared report a method is generated on the model that returns the date:
+For every declared report a method is generated on the model that returns the report data:
 
     User.registrations_report
 
